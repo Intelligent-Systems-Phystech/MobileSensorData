@@ -24,7 +24,7 @@ All experiments have to be performed in Sensor Kinetics Pro application. **Links
  
  3. Send `.csv` files.
  
-##### File naming
+### File naming
 Data file have to be named according to this expression:
 > **[game]**\_**[g]**\_**[h]**\_**[w]**\_**[ss]**\_**[note]**\_**[sensor]**.csv
 
