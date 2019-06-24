@@ -7,16 +7,16 @@
 
 Правила именования файлов
 
-1.Записать данные с 6 датчиков (режим Multi-Sensor Reader) в приложении Sensor Kinetics Pro на частоте FASTEST, отключить в настройках Time/Date Stamp
+1. Записать данные с 6 датчиков (режим Multi-Sensor Reader) в приложении Sensor Kinetics Pro на частоте FASTEST, отключить в настройках Time/Date Stamp
 
 2. Озаглавить файлы следующим образом (все 6 файлов получат название одновременно): Stairs-f-157-47-36-n.csv (_[accm/grvm/gytm.. (добавляется автоматически)])
-g - gender (m-male/f-female)
-h - height (cm)
-w - weight (kg)
-fs - foot size (cm)
+ * g - gender (m-male/f-female)
+ * h - height (cm)
+ * w - weight (kg)
+ * fs - foot size (cm)
 [note - (slim-jim/normal/athletic/fat/limps)] (необязательное поле)
 
-Пример имени
+**Пример имени**
 f-157-47-36-n.csv
 
 3. Конвертировать файлы в csv-формат
