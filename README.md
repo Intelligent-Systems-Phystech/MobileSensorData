@@ -1,4 +1,4 @@
-# Организация сбора данных сенсоров мобильного телефона
+# Coordination of mobile sensor data collection
 
 **Scientific purpose:** to analyse invariant property and composition of movements hypothesis.
 
