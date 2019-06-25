@@ -46,7 +46,6 @@ Accelerometer data of game "Stairs" played by female with 157cm height, 47kg wei
 A. Hold the phone in your right hand (for right-handed)  
 B. Put the phone in your right front pocket (for hight-handed).
 
-
 1. **Stairs**
   * Place yourself in a corridor near U-shaped stairs.
   * Switch the software, act as usual (for example, be calm).
@@ -57,9 +56,9 @@ B. Put the phone in your right front pocket (for hight-handed).
   4. Run with a bag.
   5. Go upstairs 3 ladders up and down again.
   6. Go with a bag.
-2. **Slam**
-  1. Walking with a turn: 20 steps, a turn of 90 degrees, 20 steps, turn again (three squares (left and right))
-  2. Walking square eight (walk around the perimeter of the second and fourth quarter of the coordinate plane)
+2. Slam
+   1. Walking with a turn: 20 steps, a turn of 90 degrees, 20 steps, turn again (three squares (left and right))
+   2. Walking square eight (walk around the perimeter of the second and fourth quarter of the coordinate plane)
 3. **Phone**
   * The application should not be minimized because the sensor readings are not recorded in the background.
   1. Simulate writing а message (10 s)
