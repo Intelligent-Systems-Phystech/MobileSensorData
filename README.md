@@ -51,24 +51,19 @@ B. Put the phone in your right front pocket (for hight-handed).
   * Place yourself in a corridor near U-shaped stairs.
   * Switch the software, act as usual (for example, be calm).
   * Wait one second between the following items.
-
   1. Go 12 steps forward and back again.
   2. Pick up a plastic bag with a bottle of water 1 Liter.
   3. Run 12 steps forward and back again.
   4. Run with a bag.
   5. Go upstairs 3 ladders up and down again.
   6. Go with a bag.
-  
-  
 2. **Slam**
   1. Walking with a turn: 20 steps, a turn of 90 degrees, 20 steps, turn again (three squares (left and right))
   2. Walking square eight (walk around the perimeter of the second and fourth quarter of the coordinate plane)
-  
 3. **Phone**
- * The application should not be minimized because the sensor readings are not recorded in the background.
+  * The application should not be minimized because the sensor readings are not recorded in the background.
   1. Simulate writing а message (10 s)
   2. Simulate a telephone conversation (30 s)
-
 4. **Dormitory**
   1. Sit down/up a chair (5 times)
   2. Raise / put a mug on the table (5 times)
