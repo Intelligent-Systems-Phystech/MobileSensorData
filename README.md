@@ -28,7 +28,7 @@ All experiments have to be performed in Sensor Kinetics Pro application. **Links
 Data file have to be named according to this expression:
 > **[game]**\_**[g]**\_**[h]**\_**[w]**\_**[ss]**\_**[note]**\_**[sensor]**.csv
 
- * **[game** - name of played game
+ * **[game]** - name of played game
  * **[g]** - gender (**m** - male/**f** - female)
  * **[h]** - height (cm)
  * **[w]** - weight (kg)
@@ -39,3 +39,23 @@ Data file have to be named according to this expression:
 **Example**
 Accelerometer data of game "Stairs" played by female with 157cm height, 47kg weight and 36eu shoe size: 
 > Stairs_f_157_47_36_accm.csv
+
+
+### Games
+
+A. Hold the phone in your right hand (for right-handed)
+B. Put the phone in your right front pocket (for hight-handed).
+
+1. Stairs
+ * Place yourself in a corridor near U-shaped stairs.
+ * Switch the software, act as usual (for example, be calm).
+ * Wait one second between the following items.
+
+  1. Go 12 steps forward and back again.
+  2. Pick up a plastic bag with a bottle of water 1 Liter.
+  3. Run 12 steps forward and back again.
+  4. Run with a bag.
+  5. Go upstairs 3 ladders up and down again.
+  6. Go with a bag.
+
+
