@@ -48,16 +48,16 @@ B. Put the phone in your right front pocket (for hight-handed).
 
 
 1. **Stairs**
- * Place yourself in a corridor near U-shaped stairs.
- * Switch the software, act as usual (for example, be calm).
- * Wait one second between the following items.
+  * Place yourself in a corridor near U-shaped stairs.
+  * Switch the software, act as usual (for example, be calm).
+  * Wait one second between the following items.
 
-  - Go 12 steps forward and back again.
-  - Pick up a plastic bag with a bottle of water 1 Liter.
-  - Run 12 steps forward and back again.
-  - Run with a bag.
-  - Go upstairs 3 ladders up and down again.
-  - Go with a bag.
+  1. Go 12 steps forward and back again.
+  2. Pick up a plastic bag with a bottle of water 1 Liter.
+  3. Run 12 steps forward and back again.
+  4. Run with a bag.
+  5. Go upstairs 3 ladders up and down again.
+  6. Go with a bag.
   
   
 2. **Slam**
